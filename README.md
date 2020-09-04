@@ -1,2 +1,1 @@
-# C23
-BOX PROJECT
+# Box Class
